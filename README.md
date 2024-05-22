@@ -1,1 +1,1 @@
-A react based E-Commerec Website APp.
+A react based E-Commerec Website App.
